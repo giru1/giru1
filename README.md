@@ -38,7 +38,7 @@
 ### Социальные сети
 
 <p align="left">
-<a href="https://vk.me/giru007" style="margin-right: 15px;"><img src="vk-v2-svgrepo-com.svg" alt="" width="50" ></a>
+<a href="https://vk.me/giru007"><img src="vk-v2-svgrepo-com.svg" alt="" width="50" ></a>
 <a href="https://t.me/giru07"><img src="telegram-svgrepo-com.svg" alt="" width="50"></a>
 </p>
 
