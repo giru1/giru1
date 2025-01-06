@@ -62,7 +62,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=giru1&theme=react-dark&hide_border=true&area=true)
 
-<img style="width: 100%; height: 300px;" src="https://github-readme-streak-stats-eight.vercel.app/?user=giru1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+<img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats-eight.vercel.app/?user=giru1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
 <table>
     <tr>
         <td>
