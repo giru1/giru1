@@ -38,7 +38,7 @@
 ### Социальные сети
 
 <p align="left">
-<a href="https://vk.me/giru007"><img src="vk-v2-svgrepo-com.svg" alt="" width="50" style="margin-right: 15px;"></a>
+<a href="https://vk.me/giru007" style="margin-right: 15px;"><img src="vk-v2-svgrepo-com.svg" alt="" width="50" ></a>
 <a href="https://t.me/giru07"><img src="telegram-svgrepo-com.svg" alt="" width="50"></a>
 </p>
 
@@ -62,7 +62,9 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=giru1&theme=react-dark&hide_border=true&area=true)
 
-<img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats-eight.vercel.app/?user=giru1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+<div align="center">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=giru1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+</div>
 <table>
     <tr>
         <td>
