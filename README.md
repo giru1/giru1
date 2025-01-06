@@ -62,17 +62,17 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=giru1&theme=react-dark&hide_border=true&area=true)
 
-
+<img style="width: 100%; height: 300px;" src="https://github-readme-streak-stats-eight.vercel.app/?user=giru1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
 <table>
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=giru1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Статистика giru1 на GitHub" />
         </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giru1&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
+        </td>
     </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giru1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=giru1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
 
 
 
@@ -80,3 +80,10 @@
 
 
 
+[//]: # (  <img  src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>)
+[//]: # (<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=giru1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>)
+
+[//]: # (  <br/>)
+
+[//]: # ()
+[//]: # (  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>)
