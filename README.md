@@ -1,4 +1,25 @@
-Привет, меня зовут Вадим Ягофаров. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) =============================================== ==================== =============================================== ===================== Разработка Python ------------------ Читаю много книг по разработке. Из последних «Проектирование баз данных», «Python для exel». Сейчас читаю "Грокаем алгоритмы" и "Микросервисы и API". Также смотрю разные ролики на Ютубе и прохожу курсы. Из последних курсов "ООП на Python". В недавнее время начал решать задачи по CodeWars, NeetCode, LeetCode. Нахожусь в г. Оренбург. Готов работать удаленно. * 🌍Я живу в России. * ✉️ Вы можете связаться со мной по адресу [yagofarov.vadim@mail.ru](mailto:yagofarov.vadim@mail.ru)[](mailto:yagofarov.vadim@mail.ru) * 🧠 Я изучаю Django, микросервисы * 🤝 Я открыт для сотрудничества в области бэкенда Python
+<h1 align="center"> Привет, меня зовут Вадим Ягофаров. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+=============================================== 
+ </h1>
+
+<h2>Python разработчик</h2>
+- Читаю много книг по, в том числе по разработке. 
+Из последних «Проектирование баз данных», «Python для exel», "Грокаем алгоритмы". 
+Сейчас читаю "Asyncio и конкурентность" и "Микросервисы и API". 
+Также смотрю разные ролики на Ютубе и прохожу курсы. 
+Из последних курсов "ООП на Python". 
+В недавнее время начал решать задачи по CodeWars, NeetCode, LeetCode. Нахожусь в г. Оренбург. 
+Готов работать удаленно. * 🌍Я живу в России. * ✉️ 
+Вы можете связаться со мной по адресу [yagofarov.vadim@mail.ru](mailto:yagofarov.vadim@mail.ru)[](mailto:yagofarov.vadim@mail.ru) * 🧠 Я изучаю Django, микросервисы * 🤝 Я открыт для сотрудничества в области бэкенда Python
+
+### Стек технологий:
+- Языки программирования: Python, JS
+- Фреймворки и библиотеки: FastAPI, Next
+- Тестирование: Pytest, Unittest
+- Инструменты CI/CD: Docker Compose
+- Базы данных и кэш: PostgreSQL
+- Веб-технологии: HTML, CSS
+- ORM: SQLAlchemy
 
 ### Навыки
 
@@ -10,7 +31,10 @@
 
 ### Социальные сети
 
-<p align="left"> <a href="https://www.github.com/giru1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" ширина="32" высота="32" /> </picture> </a> </p>
+<p align="left">
+<a href="https://vk.me/giru007"><img src="vk-v2-svgrepo-com.svg" alt="" width="50" style="margin-right: 15px;"></a>
+<a href="https://t.me/giru07"><img src="telegram-svgrepo-com.svg" alt="" width="50"></a>
+</p>
 
 ---
 
@@ -20,16 +44,34 @@
 
 ---
 
-### Значки
+### Статистика GitHub
 
-<b>Моя статистика GitHub</b>
-
+<br>
+<table>
+    <tr>
+        <td>
 <a href="http://www.github.com/giru1"><img src="https://github-readme-stats.vercel.app/api?username=giru1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Статистика giru1 на GitHub" /></a>
-
+</td>
+        <td>
 <a href="http://www.github.com/giru1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=giru1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+ </td>
+<td>
 <a href="https://github.com/giru1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giru1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Лучшие репозитории</b>
+</td>
+</tr>
+</table>
+<p>
 
-<div width="100%" align="center"> <a href="https://github.com/giru1/https://github.com/giru1/microservise" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=giru1&repo=https://github.com/giru1/microservise&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> </div><br /><br /><br /><br /><br /><br /><br /><br />
+
+</p>
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=giru1&theme=react-dark&hide_border=true&area=true)
+
+
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=giru1&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
